@@ -8,7 +8,9 @@ This project aims to predict health insurance costs based on various factors suc
 
 # Installation
 To run this project, you need R and the following packages:
-[install.packages(c("dplyr", "ggplot2", "caret", "corrplot", "GGally", "tidyverse", "MLmetrics", "auditor", "ggfortify"))]
+```bash
+install.packages(c("dplyr", "ggplot2", "caret", "corrplot", "GGally", "tidyverse", "MLmetrics", "auditor", "ggfortify"))
+```
 
 # Usage
 1. Clone the repository: [git clone https://github.com/yourusername/Health_Insurance_Cost_Prediction.git]
