@@ -13,7 +13,7 @@ install.packages(c("dplyr", "ggplot2", "caret", "corrplot", "GGally", "tidyverse
 ```
 
 # Usage
-1. Clone the repository: [git clone https://github.com/yourusername/Health_Insurance_Cost_Prediction.git]
+1. Clone the repository
 2. Set your working directory to the project folder
 3. Run the R script health_insurance_cost_prediction.R step by step
 
